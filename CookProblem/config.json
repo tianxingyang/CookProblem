@@ -1,0 +1,195 @@
+{
+  "cook": [
+    {
+      "name": "shengongzi",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 62
+        },
+        {
+          "name": "deep-fry",
+          "value": 62
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 24
+        },
+        {
+          "name": "cut",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "xionglu",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 62
+        },
+        {
+          "name": "deep-fry",
+          "value": 62
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 24
+        },
+        {
+          "name": "cut",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "yushiliu",
+      "cook_ability": [
+        {
+          "name": "fish",
+          "value": 4
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 3
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "beili",
+      "cook_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "fenxue",
+      "cook_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "chunri",
+      "cook_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "yushiliu",
+      "cook_ability": [
+        {
+          "name": "fish",
+          "value": 4
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 3
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}
