@@ -1,0 +1,991 @@
+{
+  "cooks": [
+    {
+      "name": "change",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 3
+        },
+        {
+          "name": "rice",
+          "value": 3
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 8
+        },
+        {
+          "name": "deep-fry",
+          "value": 16
+        },
+        {
+          "name": "fry",
+          "value": 4
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "name": "shengongzi",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 62
+        },
+        {
+          "name": "deep-fry",
+          "value": 62
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 24
+        },
+        {
+          "name": "cut",
+          "value": 12
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "xionglu",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 0
+        },
+        {
+          "name": "deep-fry",
+          "value": 69
+        },
+        {
+          "name": "fry",
+          "value": 23
+        },
+        {
+          "name": "roast",
+          "value": 23
+        },
+        {
+          "name": "cut",
+          "value": 46
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "yushiliu",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 4
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 3
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 21
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 127
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 42
+        },
+        {
+          "name": "boil",
+          "value": 106
+        }
+      ]
+    },
+    {
+      "name": "beili",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 62
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 15
+        },
+        {
+          "name": "cut",
+          "value": 94
+        },
+        {
+          "name": "boil",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "name": "sadouding",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 3
+        },
+        {
+          "name": "vegetable",
+          "value": 2
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 49
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 12
+        },
+        {
+          "name": "cut",
+          "value": 74
+        },
+        {
+          "name": "boil",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "name": "fenxue",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 49
+        },
+        {
+          "name": "deep-fry",
+          "value": 8
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 16
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "name": "chunri",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 0
+        },
+        {
+          "name": "deep-fry",
+          "value": 49
+        },
+        {
+          "name": "fry",
+          "value": 16
+        },
+        {
+          "name": "roast",
+          "value": 8
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "name": "laziji",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 2
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 8
+        },
+        {
+          "name": "deep-fry",
+          "value": 33
+        },
+        {
+          "name": "fry",
+          "value": 49
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "mangnv",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 2
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 0
+        },
+        {
+          "name": "deep-fry",
+          "value": 8
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 16
+        },
+        {
+          "name": "cut",
+          "value": 49
+        },
+        {
+          "name": "boil",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "name": "lanhaizi",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 16
+        },
+        {
+          "name": "deep-fry",
+          "value": 49
+        },
+        {
+          "name": "fry",
+          "value": 33
+        },
+        {
+          "name": "roast",
+          "value": 8
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "yubuzhan",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 3
+        },
+        {
+          "name": "meet",
+          "value": 1
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 8
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 49
+        },
+        {
+          "name": "roast",
+          "value": 16
+        },
+        {
+          "name": "cut",
+          "value": 33
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "nongdangwu",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 1
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 3
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 33
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 8
+        },
+        {
+          "name": "roast",
+          "value": 16
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "name": "guoguo",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 16
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 49
+        },
+        {
+          "name": "roast",
+          "value": 33
+        },
+        {
+          "name": "cut",
+          "value": 8
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "yuxuan",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 2
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 8
+        },
+        {
+          "name": "deep-fry",
+          "value": 16
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 49
+        },
+        {
+          "name": "cut",
+          "value": 0
+        },
+        {
+          "name": "boil",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "name": "wukui",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 3
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 3
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 49
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 8
+        },
+        {
+          "name": "roast",
+          "value": 16
+        },
+        {
+          "name": "cut",
+          "value": 33
+        },
+        {
+          "name": "boil",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "doumaoyaoshi",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 3
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 3
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 53
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 86
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 20
+        },
+        {
+          "name": "boil",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "name": "xiaodangjia",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 1
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 9
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 18
+        },
+        {
+          "name": "boil",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "ouduoduo",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 2
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 0
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 70
+        },
+        {
+          "name": "cut",
+          "value": 46
+        },
+        {
+          "name": "boil",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "name": "chuxiaohe",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 0
+        },
+        {
+          "name": "meet",
+          "value": 2
+        },
+        {
+          "name": "rice",
+          "value": 0
+        },
+        {
+          "name": "vegetable",
+          "value": 3
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 70
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 23
+        },
+        {
+          "name": "boil",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "name": "wulingzai",
+      "collect_ability": [
+        {
+          "name": "fish",
+          "value": 2
+        },
+        {
+          "name": "meet",
+          "value": 0
+        },
+        {
+          "name": "rice",
+          "value": 2
+        },
+        {
+          "name": "vegetable",
+          "value": 0
+        }
+      ],
+      "cook_ability": [
+        {
+          "name": "steam",
+          "value": 9
+        },
+        {
+          "name": "deep-fry",
+          "value": 0
+        },
+        {
+          "name": "fry",
+          "value": 0
+        },
+        {
+          "name": "roast",
+          "value": 0
+        },
+        {
+          "name": "cut",
+          "value": 18
+        },
+        {
+          "name": "boil",
+          "value": 27
+        }
+      ]
+    }
+  ]
+}

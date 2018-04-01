@@ -15,40 +15,154 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ability.h">
+    <ClInclude Include="common\json\json.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="cook.h">
+    <ClInclude Include="common\json\json-forwards.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="json\json.h">
+    <ClInclude Include="common\ability.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="json\json-forwards.h">
+    <ClInclude Include="cook\cook.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="cook_mgr.h">
+    <ClInclude Include="cook\cook_mgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\uncopyable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exploration\place.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exploration\place_mgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\foo_mgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\custom\gtest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\custom\gtest-port.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\custom\gtest-printers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-death-test-internal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-filepath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-internal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-linked_ptr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-param-util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-param-util-generated.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-port.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-port-arch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-tuple.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\internal\gtest-type-util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest_pred_impl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest_prod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-death-test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-message.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-param-test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-printers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-spi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-test-part.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gtest\gtest-typed-test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\skip_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\arena.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\atomic_pointer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\random.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ability.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="cook.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="jsoncpp.cpp">
+    <ClCompile Include="common\jsoncpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="cook_mgr.cpp">
+    <ClCompile Include="common\ability.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cook\cook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cook\cook_mgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exploration\place.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exploration\place_mgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\foo_mgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\cook_mgr_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\arena.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="config.json" />
+    <None Include="config\config.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="gtestd.lib" />
   </ItemGroup>
 </Project>
